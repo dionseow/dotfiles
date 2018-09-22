@@ -29,11 +29,8 @@ open_file_under_cursor.vim https://github.com/amix/open_file_under_cursor.vim
 snipmate-snippets https://github.com/scrooloose/snipmate-snippets
 tlib https://github.com/vim-scripts/tlib
 vim-addon-mw-utils https://github.com/MarcWeber/vim-addon-mw-utils
-vim-bundle-mako https://github.com/sophacles/vim-bundle-mako
-vim-coffee-script https://github.com/kchmck/vim-coffee-script
 vim-colors-solarized https://github.com/altercation/vim-colors-solarized
 vim-indent-object https://github.com/michaeljsmith/vim-indent-object
-vim-less https://github.com/groenewege/vim-less
 vim-markdown https://github.com/tpope/vim-markdown
 vim-pyte https://github.com/therubymug/vim-pyte
 vim-snipmate https://github.com/garbas/vim-snipmate
@@ -46,7 +43,6 @@ goyo.vim https://github.com/junegunn/goyo.vim
 vim-zenroom2 https://github.com/amix/vim-zenroom2
 vim-repeat https://github.com/tpope/vim-repeat
 vim-commentary https://github.com/tpope/vim-commentary
-vim-go https://github.com/fatih/vim-go
 vim-gitgutter https://github.com/airblade/vim-gitgutter
 gruvbox https://github.com/morhetz/gruvbox
 vim-flake8 https://github.com/nvie/vim-flake8
@@ -57,6 +53,10 @@ vim-abolish https://github.com/tpope/tpope-vim-abolish
 mru.vim https://github.com/vim-scripts/mru.vim
 vim-markdown https://github.com/plasticboy/vim-markdown
 comfortable-motion.vim https://github.com/yuttie/comfortable-motion.vim
+jedi-vim https://github.com/davidhalter/jedi-vim.git
+papercolor-theme https://github.com/NLKNguyen/papercolor-theme.git
+supertab https://github.com/ervandew/supertab.git
+vim-flake8 https://github.com/nvie/vim-flake8.git
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
