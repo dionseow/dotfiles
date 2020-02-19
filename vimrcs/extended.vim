@@ -29,8 +29,7 @@ set guioptions-=L
 
 " Colorscheme
 set background=dark
-colorscheme PaperColor
-
+colorscheme peaksea
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
