@@ -16,3 +16,6 @@ catch
 endtry' > ~/.vimrc
 
 echo "Installed the Ultimate Vim configuration successfully! Enjoy :-)"
+
+cat bash.txt >> ~/.bashrc
+exec bash
